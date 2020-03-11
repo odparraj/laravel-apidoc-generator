@@ -7,11 +7,11 @@
         "Documentation",
         "Laravel"
     ],
-    "homepage": "http://github.com/odparraj/laravel-apidoc-generator",
+    "homepage": "http://github.com/mpociot/laravel-apidoc-generator",
     "authors": [
         {
-            "name": "Oscar Parra",
-            "email": "odparraj@unal.edu.co"
+            "name": "Marcel Pociot",
+            "email": "m.pociot@gmail.com"
         }
     ],
     "require": {
